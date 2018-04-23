@@ -34,4 +34,5 @@ def turn(board)
   if valid_move?(board, player_input)
     move(board, player_input)
     display_board(board)
+  end
 end
