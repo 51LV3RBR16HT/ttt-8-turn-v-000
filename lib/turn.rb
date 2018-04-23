@@ -3,10 +3,15 @@
 # valid_move?
 # move 
 
+def display_board
+  
+puts "   |   |   "
+puts "-----------"
+puts "   |   |   "
+puts "-----------"
+puts "   |   |   "
 
-
-
-
-def turn(board)
-  puts "Please enter 1-9:"
 end
+
+display_board
+
