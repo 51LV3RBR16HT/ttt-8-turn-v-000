@@ -3,3 +3,7 @@
 # valid_move?
 # move 
 
+def display_board
+
+end
+
