@@ -28,5 +28,5 @@ def move(board, index, token = "X")
 end  
 
 def turn(board)
-  
+  puts ""
 end
